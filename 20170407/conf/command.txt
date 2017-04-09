@@ -1,0 +1,6 @@
+ls
+pwd
+gets
+puts
+cd
+remove
